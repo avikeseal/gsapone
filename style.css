@@ -18,6 +18,8 @@ body {
     font-size: 3rem;
     margin-bottom: 20px;
     opacity: 0;
+    transform: translateY(-50px);
+    /*moving it up to match the gsap animation start position*/
 }
 
 button {
